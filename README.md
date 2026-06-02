@@ -1,6 +1,6 @@
 > Make AI Writing Better for Everyone
 
-##优化代码
+## 优化代码
 第一步：
 进入 Cleanup Mode。
 
